@@ -98,3 +98,4 @@ Add meaningful request message denoting your changes and then click `Create pull
 <img src="./images/contributionSteps/createPullRequest.jpeg">
 
 With this you have successfully made your first contribution in an Open-Source projects!!!
+Thankyou!
